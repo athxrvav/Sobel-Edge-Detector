@@ -2,6 +2,12 @@
 
 
 # Sobel Edge Detector (Verilog Hardware Implementation)
+<table>
+  <tr>
+    <td><img src="test_image.jpeg" alt="Original Image" width="400"/></td>
+    <td><img src="edge_result.png" alt="Edge Detection Result" width="400"/></td>
+  </tr>
+</table>
 
 ## Project Overview
 
